@@ -9,7 +9,7 @@ Hello world. My name is Pavel. Right now i am freshman at SDU. I come here becau
 * Studied a whole STEP jr course (2018-2021)
 *****
 ## Projects
-**Got no project yet, open for offers**
+**Got no project yet, but open for offers**
 *****
 ## Skills
 * Communication skills
