@@ -14,7 +14,7 @@ Hello world. My name is Pavel. Right now i am freshman at SDU. I come here becau
 ## Skills
 * Communication skills
 * Able to do everything on time
-* Team work ability
+* Able to work in team
 * Can easily perceive information
 * Python (A1), html (A2), css (A2), js (A1), c++ (A1), lua (basic)
 *****
