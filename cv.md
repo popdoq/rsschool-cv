@@ -16,10 +16,10 @@ Hello world. My name is Pavel. Right now i am freshman at SDU. I come here becau
 * Able to do everything on time
 * Able to work in team
 * Can easily perceive information
-* Python (A1), html (A2), css (A2), js (A1), c++ (A1), lua (basic)
+* Python (A1), html (A2), css (A2), js (A1), c++ (A1), lua (A1)
 *****
 ## Languages
-1. Russian(native)
+1. Russian(C2)
 2. English(B2)
 3. German (B1)
 4. Turkish(A1)
